@@ -35,5 +35,5 @@
         进行巡线以及转向等基本运动方式的实现，根据接收到来自树莓派串口发送的消息进行运动。
         
 ## 三.逻辑框图:
+![绘图1](https://user-images.githubusercontent.com/68122416/140660116-a8b95f53-d1e3-44ba-8954-af050bd818b1.jpg)
 
-https://github.com/fumoumou6/2021TI_MedicineCar/blob/main/%E7%BB%98%E5%9B%BE1.jpg
